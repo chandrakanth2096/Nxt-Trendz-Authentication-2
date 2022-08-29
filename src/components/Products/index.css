@@ -1,0 +1,9 @@
+.product-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.product {
+  width: 170px;
+}
